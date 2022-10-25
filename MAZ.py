@@ -188,7 +188,7 @@ def main_apv():
 
 
 
-    r1=requests.get("https://github.com/Jakariya404/MAR/blob/main/Approved.txt").text
+    r1=requests.get("https://github.com/FBXHACK/approval/blob/main/Approval.txt").text
 
     if key1 in r1:
 
